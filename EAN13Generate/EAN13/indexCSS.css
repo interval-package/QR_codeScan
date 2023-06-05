@@ -1,0 +1,71 @@
+#body{
+    margin-top: 200px;
+    margin-left: 600px;
+}
+#produce_EAN{
+    border: none;
+    background: #ff8f54;
+    border-radius: 4px;
+    width: 160px;
+    text-align: center;
+    padding: 2px 5px;
+    cursor: pointer;
+    color: #ffffff;
+}
+#code_bar{
+    margin: 50px;
+    margin-left: 520px;
+    margin-bottom: 0;
+}
+/*.width_1{*/
+/*    width: 5px;*/
+/*}*/
+.bar{
+    width: 5px;
+    height: 200px;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+.bar_long{
+    width: 5px;
+    height: 220px;
+    float: left;
+}
+.color_1{
+    background: #000000;
+}
+.color_0{
+    background: #ffffff;
+}
+.clearfix{
+    clear: both;
+}
+#num_position{
+    margin-left: 520px;
+}
+
+.numNum{
+    float: left;
+    /*margin:19px;*/
+    font-size: 1rem;
+}
+.start{
+    width: 30px;
+    margin-left: -10px;
+}
+.dataPart{
+    margin: 12px;
+    margin-top: 0;
+    /*margin-left: 20px;*/
+    /*text-align: center;*/
+    font-size: 1rem;
+}
+/*.dataPart:first-child{*/
+/*    margin-left: 11px;*/
+/*}*/
+.center{
+    width: 25px;
+    margin-right: 4px;
+    height: 20px;
+}
