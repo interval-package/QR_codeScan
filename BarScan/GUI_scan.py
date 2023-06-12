@@ -1,7 +1,8 @@
-import sys
-from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QPushButton, QLabel, QFileDialog
-
 from scan_functionlized import *
+
+import sys
+from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QVBoxLayout, QPushButton, QLabel, QFileDialog
+from PyQt5.QtGui import QPixmap
 
 class FileViewer(QWidget):
     def __init__(self):
